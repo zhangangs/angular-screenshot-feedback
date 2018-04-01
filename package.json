@@ -1,5 +1,5 @@
 {
-  "name": "angular-screenshot-feekback",
+  "name": "angular-screenshot-feedback",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhangangs/angular-screenshot-feekback.git"
+    "url": "git+https://github.com/zhangangs/angular-screenshot-feedback.git"
   },
   "author": "Veiss",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhangangs/angular-screenshot-feekback/issues"
+    "url": "https://github.com/zhangangs/angular-screenshot-feedback/issues"
   },
-  "homepage": "https://github.com/zhangangs/angular-screenshot-feekback#readme",
+  "homepage": "https://github.com/zhangangs/angular-screenshot-feedback#readme",
   "devDependencies": {
     "browser-sync": "^2.23.6",
     "gulp": "^3.9.1",

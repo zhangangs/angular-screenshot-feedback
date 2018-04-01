@@ -6,11 +6,13 @@
 
 ### 安装源代码
 
->git clone https://github.com/zhangangs/angular-screenshot-feedback.git
->cd angular-screenshot-feedback
->npm install
->bower install
->gulp serve
+```
+git clone https://github.com/zhangangs/angular-screenshot-feedback.git
+cd angular-screenshot-feedback
+npm install
+bower install
+gulp serve
+```
 
 ### 引入css和js：
 ```
